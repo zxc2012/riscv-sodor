@@ -1,0 +1,5 @@
+include ../../prefix.mk
+
+MK_TARGET_PROC  := rv32_5stage
+  
+include $(srcDir)/emulator/common/Makefile.include

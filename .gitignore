@@ -2,7 +2,6 @@ emulator/*/obj_dir/
 emulator/*/output/
 src/*/target/
 config.status
-Makefile
 prefix.mk
 *.tar.gz
 install/share
