@@ -1,14 +1,5 @@
-emulator/*/*.out
-emulator/*/*.out.gz
-emulator/*/emulator
-emulator/*/emulator-debug
-emulator/*/generated-src
-emulator/*/generated-src-debug
-emulator/*/*.o
-emulator/*/*.a
 emulator/*/obj_dir/
 emulator/*/output/
-emulator/*/fesvr/
 src/*/target/
 config.status
 Makefile
